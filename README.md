@@ -43,8 +43,8 @@ This project applies **unsupervised machine learning** to segment customers base
 ## 📌 How to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/customer-segmentation.git
-   cd customer-segmentation
+   git clone https://github.com/Deepakjd-dev/Clustering_customer_invoice_data.git
+   cd Clustering_customer_invoice_data
    ```
 2. **Install dependencies**
    ```bash
@@ -52,7 +52,7 @@ This project applies **unsupervised machine learning** to segment customers base
    ```
 3. **Run the Python script**
    ```bash
-   python customer_segmentation.py
+   python Clustering_customer_invoice_data.py
    ```
 
 ## 📊 Visualization & Insights
@@ -66,7 +66,7 @@ This project applies **unsupervised machine learning** to segment customers base
 🔹 Develop a **Web Dashboard** for real-time customer insights  
 
 ## 🏆 Contributors
-👨‍💻 **Your Name** – [GitHub Profile](https://github.com/your-username)
+👨‍💻 **Your Name** – [GitHub Profile](https://github.com/Deepakjd-dev)
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify!
